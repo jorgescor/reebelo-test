@@ -1,0 +1,20 @@
+{
+            "name": "John",
+            "last_name":"Snow",
+            "email": "reebelos@gmail.com",
+            "address": "1 Malop Street",
+            "address_total": "1 Malop Street, Geelong VIC 3220, Australia",
+            "suburb": "Geelong",
+            "state": "Victoria",
+            "post_code": "3220",
+            "phone": "4210131379",
+            "__typename": "user",
+            "account_name": "test account",
+            "bsb": "063000",
+            "bank_name": "CommonWealth Bank",
+            "account_number":"1234567890",
+            "password":"SuchSecret123!"
+
+        
+
+}
